@@ -3,7 +3,7 @@ ProsePond is a dynamic AI powered web application crafted for users to articulat
 
 ## 🚀 Deployment
 ProsePond is accessible on Link [Visit website](
-https://appwriteblog-chi.vercel.app/ "ProsePond"), providing a convenient platform for users to experience the application.
+https://prose-pond.vercel.app/ "ProsePond"), providing a convenient platform for users to experience the application.
 
 ## 🚀 Features
 - User Authentication: Guarantees secure signup and login using email credentials with user verification through magic link sent on email.Also added Google Oauth 2.0 for lightning fast login .⚡⚡

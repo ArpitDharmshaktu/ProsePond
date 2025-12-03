@@ -56,7 +56,7 @@ export class AuthService{
                 // OAuth login
                  // Create this route in your app
 //                 return this.account.createOAuth2Session(provider,"http://localhost:5173/all-posts", "http://localhost:5173/login");
-                return this.account.createOAuth2Session(provider,"https://appwriteblog-chi.vercel.app/all-posts", "https://appwriteblog-chi.vercel.app/login");
+                return this.account.createOAuth2Session(provider,"https://prose-pond.vercel.app/all-posts", "https://prose-pond.vercel.app/login");
                 
             } else {
                 // Email/password login
