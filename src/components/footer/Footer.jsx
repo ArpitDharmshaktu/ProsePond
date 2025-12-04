@@ -12,7 +12,7 @@ function Footer() {
                             <Logo width="50px" />
                         </div>
                         <p className="text-sm text-gray-400">
-                            &copy; 2024 Ishan. All rights reserved.
+                            &copy; 2024 Arpit. All rights reserved.
                         </p>
                     </div>
                     <div>
